@@ -37,3 +37,8 @@ LISTA DE CODIGOS DE ATIVAÇÃO WINDOWS:
 | Enterprise 2016 LTSB N | QFFDN-GRT3P-VKWWX-X7T3R-8B639 |
                                                                             
 -------------------------------------------------------
+
+OU SE NADA DISSO FUNCIONAR USE ESSE COMANDO:
+```bash
+ irm https://massgrave.dev/get | iex
+```
